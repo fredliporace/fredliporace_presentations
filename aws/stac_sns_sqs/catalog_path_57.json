@@ -1,0 +1,130 @@
+{
+  "name": "CBERS4 MUX 057",
+  "description": "CBERS4 MUX camera path 057 catalog",
+  "links": [
+    {
+      "rel": "self",
+      "href": "catalog.json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "122/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "105/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "113/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "121/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "110/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "101/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "115/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "107/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "104/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "111/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "117/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "103/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "108/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "099/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "112/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "118/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "106/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "097/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "102/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "109/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "098/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "114/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "116/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "100/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "119/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "096/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "094/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "095/catalog.json"
+    },
+    {
+      "rel": "child",
+      "href": "120/catalog.json"
+    }
+  ]
+}
